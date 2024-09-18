@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-tailwind-cart/static/css/main.c12f63c7.css",
+    "main.js": "/react-tailwind-cart/static/js/main.5fcc57e7.js",
+    "static/js/453.83fd77bc.chunk.js": "/react-tailwind-cart/static/js/453.83fd77bc.chunk.js",
+    "static/media/4.png": "/react-tailwind-cart/static/media/4.240703fe7e6c00076c5f.png",
+    "static/media/5.png": "/react-tailwind-cart/static/media/5.f49acd70cb5336303c98.png",
+    "static/media/2.png": "/react-tailwind-cart/static/media/2.ea700311649e6fe09bdd.png",
+    "static/media/8.png": "/react-tailwind-cart/static/media/8.6cd5235aac2b7da0cae5.png",
+    "static/media/1.png": "/react-tailwind-cart/static/media/1.da1b5c0cd88b6ea2961b.png",
+    "static/media/7.png": "/react-tailwind-cart/static/media/7.5bc9d347c51a7644ee92.png",
+    "static/media/6.png": "/react-tailwind-cart/static/media/6.ba368bf21eb9b6d05b7d.png",
+    "static/media/3.png": "/react-tailwind-cart/static/media/3.c40d1c9a18d7eabbedd8.png",
+    "static/media/iconCart.png": "/react-tailwind-cart/static/media/iconCart.eca5ee08f37494f3f691.png",
+    "index.html": "/react-tailwind-cart/index.html",
+    "main.c12f63c7.css.map": "/react-tailwind-cart/static/css/main.c12f63c7.css.map",
+    "main.5fcc57e7.js.map": "/react-tailwind-cart/static/js/main.5fcc57e7.js.map",
+    "453.83fd77bc.chunk.js.map": "/react-tailwind-cart/static/js/453.83fd77bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c12f63c7.css",
+    "static/js/main.5fcc57e7.js"
+  ]
+}
