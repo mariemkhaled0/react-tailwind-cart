@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-tailwind-cart/static/css/main.c12f63c7.css",
-    "main.js": "/react-tailwind-cart/static/js/main.5fcc57e7.js",
+    "main.js": "/react-tailwind-cart/static/js/main.38387feb.js",
     "static/js/453.83fd77bc.chunk.js": "/react-tailwind-cart/static/js/453.83fd77bc.chunk.js",
     "static/media/4.png": "/react-tailwind-cart/static/media/4.240703fe7e6c00076c5f.png",
     "static/media/5.png": "/react-tailwind-cart/static/media/5.f49acd70cb5336303c98.png",
@@ -14,11 +14,11 @@
     "static/media/iconCart.png": "/react-tailwind-cart/static/media/iconCart.eca5ee08f37494f3f691.png",
     "index.html": "/react-tailwind-cart/index.html",
     "main.c12f63c7.css.map": "/react-tailwind-cart/static/css/main.c12f63c7.css.map",
-    "main.5fcc57e7.js.map": "/react-tailwind-cart/static/js/main.5fcc57e7.js.map",
+    "main.38387feb.js.map": "/react-tailwind-cart/static/js/main.38387feb.js.map",
     "453.83fd77bc.chunk.js.map": "/react-tailwind-cart/static/js/453.83fd77bc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c12f63c7.css",
-    "static/js/main.5fcc57e7.js"
+    "static/js/main.38387feb.js"
   ]
 }
